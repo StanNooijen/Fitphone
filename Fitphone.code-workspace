@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../schoolshit/LAB/React"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Fitphone"
+	}
+}
