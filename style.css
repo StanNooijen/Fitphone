@@ -3,12 +3,42 @@
 
 body {
     background-color: #ECEAEA;
-    font-size: 22px;
+    font-size: 35px;
 }
 
 a {
     font-family: 'Gobold', sans-serif;
+    color: #1c2a3B !important;
 }
+
+img {
+    width: 7.5rem;
+    margin-left: 2.5rem;
+    margin-top: 1rem;
+}
+
+.navbar-nav {
+    margin-right: 25.5rem;
+    margin-top: -1rem;
+    gap: 8px;
+}
+
+.triangle-left {
+    width: 50;
+    height: 50;
+    border-top: 50px solid transparent;
+    border-right: 100px solid rgb(77, 60, 60);
+    border-bottom: 50px solid transparent;
+  }
+
+
+
+
+
+
+
+
+
 
 h1 {
     font-family: 'Gobold', sans-serif;
@@ -20,10 +50,4 @@ h4 {
 
 p {
     font-family: 'DM Sans', sans-serif;
-}
-
-img {
-    width: 7rem;
-    margin-left: 3rem;
-    margin-top: 1.5rem;
 }
