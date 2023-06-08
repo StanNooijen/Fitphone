@@ -3,11 +3,24 @@
 
 body {
     background-color: #ECEAEA;
-    font-size: 22px;
+    font-size: 35px;
 }
 
 a {
     font-family: 'Gobold', sans-serif;
+    color: #231f20 !important;
+}
+
+img {
+    width: 7.5rem;
+    margin-left: 2.5rem;
+    margin-top: 1rem;
+}
+
+.navbar-nav {
+    margin-right: 25.5rem;
+    margin-top: -1rem;
+    gap: 8px;
 }
 
 h1 {
@@ -20,10 +33,4 @@ h4 {
 
 p {
     font-family: 'DM Sans', sans-serif;
-}
-
-img {
-    width: 7rem;
-    margin-left: 3rem;
-    margin-top: 1.5rem;
 }
