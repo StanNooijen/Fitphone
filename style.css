@@ -1,29 +1,29 @@
 @import url('https://fonts.cdnfonts.com/css/gobold');
 @import url('https://fonts.cdnfonts.com/css/dm-sans');
-body{
+
+body {
     background-color: #ECEAEA;
+    font-size: 22px;
 }
 
-a{
+a {
     font-family: 'Gobold', sans-serif;
 }
 
-h1{
+h1 {
     font-family: 'Gobold', sans-serif;
 }
-h4{
+
+h4 {
     font-family: 'Gobold', sans-serif;
 }
-p{
+
+p {
     font-family: 'DM Sans', sans-serif;
 }
-img{
-    width: 6rem;
-}
 
-.nav-brand{
-}
-
-.navbar-nav{
-    margin: -2rem 20rem 0rem 0rem;
+img {
+    width: 7rem;
+    margin-left: 3rem;
+    margin-top: 1.5rem;
 }
