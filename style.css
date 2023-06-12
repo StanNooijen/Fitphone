@@ -27,16 +27,16 @@ a {
     margin-right: 25.5rem;
     margin-top: -1rem;
     gap: 8px;
-    font-size:35px;
+    font-size: 35px;
 }
 
 .triangle-left {
-    position:absolute;
+    position: absolute;
     margin-top: 20rem;
     border-top: 30rem solid transparent;
     border-right: 150rem solid #f0a53a;
     border-bottom: 0px solid transparent;
-    z-index:1
+    z-index: 1
 }
 
 .homepic {
@@ -47,17 +47,26 @@ a {
     z-index: -2;
 }
 
+.frontpagetext {
+    font-style:italic;
+    position: absolute;
+    margin-left: 63rem;
+    margin-top: -13rem;
+    width: 60rem;
+    font-size: 65px;
+    text-align: center;
+    color:white;
 
-
-
-
-
-
-
-h1 {
-    font-family: 'Gobold', sans-serif;
+    transform:rotate(-12deg)
 }
 
+
+
+
+
+
+h1,
+h2,
 h4 {
     font-family: 'Gobold', sans-serif;
 }
