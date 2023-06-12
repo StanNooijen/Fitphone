@@ -50,6 +50,8 @@ a {
 
 .frontpagetext {
     font-style:italic;
+    position: relative;
+
     /* position: absolute; */
     margin-left: 63rem;
     margin-top: -13rem;
