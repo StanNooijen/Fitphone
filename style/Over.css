@@ -1,0 +1,30 @@
+.container{
+    margin: 10rem 20rem;
+    border: solid black 1px;
+    width: 100% !important;
+}
+
+
+@media screen and (max-width: 650px){
+    body{
+        font-size: 12px !important;
+    }
+    .container{
+        margin: 0rem 0rem;
+        border: solid rgb(255, 0, 0) 1px;
+        width: 100% !important;
+    }
+}
+
+
+
+@media screen and (max-width: 1280px) {
+    body{
+        font-size: 17px;
+    }
+    .container{
+        margin: 0rem 0rem;
+        border: solid rgb(255, 0, 0) 1px;
+        width: 100% !important;
+    }
+}
