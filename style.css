@@ -3,7 +3,14 @@
 
 body {
     background-color: #ECEAEA;
-    font-size: 35px;
+}
+
+.example::-webkit-scrollbar {
+    display: none;
+}
+
+.example {
+    -ms-overflow-style: none;
 }
 
 a {
@@ -20,14 +27,14 @@ a {
     margin-right: 25.5rem;
     margin-top: -1rem;
     gap: 8px;
+    font-size:35px;
 }
 
 .triangle-left {
-    width: 50;
-    height: 50;
-    border-top: 50px solid transparent;
-    border-right: 100px solid rgb(77, 60, 60);
-    border-bottom: 50px solid transparent;
+    border-top: 550px solid transparent;
+    border-right: 80rem solid #f0a53a;
+    border-bottom: 0px solid transparent;
+    z-index:1
 }
 
 .homepic {
@@ -35,7 +42,7 @@ a {
     width: 100%;
     margin: 0rem 0rem;
     margin-top: -13.5rem;
-    z-index: -1;
+    z-index: -2;
 }
 
 
