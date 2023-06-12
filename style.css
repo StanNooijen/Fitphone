@@ -31,8 +31,10 @@ a {
 }
 
 .triangle-left {
-    border-top: 550px solid transparent;
-    border-right: 80rem solid #f0a53a;
+    position:absolute;
+    margin-top: 20rem;
+    border-top: 30rem solid transparent;
+    border-right: 150rem solid #f0a53a;
     border-bottom: 0px solid transparent;
     z-index:1
 }
