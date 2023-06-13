@@ -1,5 +1,6 @@
+
 body {
-    font-size: 25px;
+    font-size: 22px;
 }
 
 h1 {
@@ -47,6 +48,48 @@ nav-link {
     width: 100%;
 }
 
+.overImage{
+    width: 35rem;
+    margin-top: -5rem;
+}
+
+.Ons-Team{
+    color: white;
+    background-color:#f0a53a;
+    height: 100%;
+    padding: 8rem;
+}
+
+.Ons-Team div{
+    margin-top: 1.5rem;
+}
+
+.Ons-Team p{
+    line-height: 1;
+}
+
+.OverContact{
+    width: 80%;
+    height: 100%;
+}
+
+.OverContact img{
+    width: 40%;
+    margin-top: 2rem;
+}
+
+.OverContact div{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.ContactText a{
+    text-decoration: none;
+}
+.ContactText h2{
+    padding-bottom: 1rem;
+}
+
 
 
 @media screen and (max-width: 650px) {
@@ -65,7 +108,7 @@ nav-link {
 
 @media screen and (max-width: 1280px) {
     body {
-        font-size: 17px;
+        font-size: 17px !important;
     }
 
     .container {
