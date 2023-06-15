@@ -1,15 +1,23 @@
 .Nieuws{
-    margin-top: 5rem;
-    width: 85%;
+    margin-top: 7rem;
+    width: 80%;
 }
 .Nieuws img{
-    width: 85%;
+    width: 80%;
 }
 
-.Nieuws div{
-    width: 65%;
+.Nieuws p{
+    width: 83%;
+    margin-top: 1rem;
+}
+
+.NieuwsTextChange{
+    font-weight: bold;
+    color: #f0a53a;
 }
 
 .Nieuwscol H1{
-    font: italic;
+    font-style: italic;
+    margin-bottom: 3rem;
 }
+
