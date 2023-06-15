@@ -1,0 +1,15 @@
+.Nieuws{
+    margin-top: 5rem;
+    width: 85%;
+}
+.Nieuws img{
+    width: 85%;
+}
+
+.Nieuws div{
+    width: 65%;
+}
+
+.Nieuwscol H1{
+    font: italic;
+}
