@@ -1,49 +1,56 @@
-.body {}
+body {
+    font-size: 22px;
+}
 
 .smits {
     background-color: #f0a53a;
     margin: auto;
+    align-items: center;
     text-align: center;
-    padding: 50px;
+    padding: 8rem;
+    color: white;
+    width: 100%;
+}
 
+.smites-text{
+    width: 10rem;
+    border: solid;
 }
+
 .textErvaringen{
-    float: right;
-    width: 350px;
+    width: 35%;
+    margin-left: 10rem;
 }
+
+.textErvaringen h1{
+    margin-bottom: 2rem;
+}
+
 
 .textInstagram{
-    float: left;
-    width: 350px;
+    width: 35%;
 }
 
-.aflevering1{
+.textInstagram h1{
+    width: 100%;
+    margin-top: -5rem;
+    margin-bottom: 2rem
+
 }
 
-.aflevering2{
-    
+.TextThickening{
+    font-weight: bold;
 }
 
-.aflevering3{
+.width{
+    margin-top: 10rem;
+    margin-bottom: 4rem;
+    width: 85%;
 }
 
-.aflevering4{
-    
+.afleveringenWidth{
+    width: 50%;
+    margin-top: 1rem;
 }
 
 
-/* .aflevering3 {
-    width: 1000px;
-    height: 50px;
-    margin: 0 auto;
-}
-
-.aflevering4 {
-    width: 100px;
-    margin: 0 auto;
-} */
-
-/* .iframe {
-    display: block;
-    border-style: none;
-} */
