@@ -160,16 +160,40 @@ span {
 
 .FitPhone {
     background-color: #1c2a3b;
-    width: 100%;
     height: 100%;
     color: #ECEAEA;
 }
 
-.FitPhone span{
-    color:#f0a53a;
+.FitPhone span {
+    color: #f0a53a;
 }
 
-.FitPhone h2{
-    font-style:italic;
+.FitPhone h2 {
+    font-style: italic;
     width: 35%;
+}
+
+.FitPhone h1 {
+    font-size: 45px;
+}
+
+.FitPhone p {
+    font-size: 25px;
+    margin-top: 3%;
+    width: 73%;
+}
+
+.kamperenimg {
+    width: 123%
+}
+
+.textFitphone {
+    margin: 13% 0% 0% 7.5%;
+}
+
+.bewustFitphone {
+    width: 23%;
+    margin-top: -13%;
+    margin-left: 20%;
+    font-size: 40px;
 }
