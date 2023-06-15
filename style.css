@@ -3,7 +3,8 @@
 
 h1,
 h2,
-h4 {
+h4,
+a {
     font-family: 'Gobold', sans-serif;
 }
 
@@ -24,7 +25,6 @@ body {
 }
 
 a {
-    font-family: 'Gobold', sans-serif;
     color: #1c2a3B !important;
 }
 
@@ -198,34 +198,60 @@ span {
     font-size: 40px;
 }
 
-.Contact{
+.Contact {
     width: 80%;
     height: 100%;
     font-size: 22px;
 }
 
-.Contact img{
+.Contact img {
     width: 40%;
     margin-top: 2rem;
 }
 
-.Contact div{
+.Contact div {
     margin-top: 3rem;
     margin-bottom: 2rem;
 }
 
-.ContactText a{
+.ContactText a {
     text-decoration: none;
 }
-.ContactText h2{
+
+.ContactText h2 {
     padding-bottom: 1rem;
 }
 
-footer{
+footer {
     font-size: 22px;
-    background-color: #1c2a3b; 
-    color: white; 
+    background-color: #1c2a3b;
+    color: white;
     padding: 2rem 2rem 1rem 6rem;
     display: flex;
     align-items: center;
+}
+
+@media screen and (max-width: 1660px) {
+    .frontpagetext {
+        margin-left: 50rem;
+        margin-top: -12rem;
+    }
+
+    .triangle-left {
+        margin-left:-5rem;
+        margin-top: -35%;
+        border-top: 25rem solid transparent;
+        border-right: 105rem solid #f0a53a;
+        border-bottom: 0px solid transparent;
+    }
+
+    .backgronderzoek {
+        margin-top: -1rem;
+    }
+    
+}
+
+
+@media screen and (max-width: 650px) {
+    body {}
 }
