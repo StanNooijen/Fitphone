@@ -68,39 +68,10 @@ nav-link {
     line-height: 1;
 }
 
-.OverContact{
-    width: 80%;
-    height: 100%;
-}
-
-.OverContact img{
-    width: 40%;
-    margin-top: 2rem;
-}
-
-.OverContact div{
-    margin-top: 3rem;
-    margin-bottom: 2rem;
-}
-
-.ContactText a{
-    text-decoration: none;
-}
-.ContactText h2{
-    padding-bottom: 1rem;
-}
-
-
 
 @media screen and (max-width: 650px) {
     body {
         font-size: 12px !important;
-    }
-
-    .container {
-        margin: 0rem 0rem;
-        border: solid rgb(255, 0, 0) 1px;
-        width: 100% !important;
     }
 }
 
@@ -109,11 +80,5 @@ nav-link {
 @media screen and (max-width: 1280px) {
     body {
         font-size: 17px !important;
-    }
-
-    .container {
-        margin: 0rem 0rem;
-        border: solid rgb(255, 0, 0) 1px;
-        width: 100% !important;
     }
 }
