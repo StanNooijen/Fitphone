@@ -197,3 +197,35 @@ span {
     margin-left: 20%;
     font-size: 40px;
 }
+
+.Contact{
+    width: 80%;
+    height: 100%;
+    font-size: 22px;
+}
+
+.Contact img{
+    width: 40%;
+    margin-top: 2rem;
+}
+
+.Contact div{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.ContactText a{
+    text-decoration: none;
+}
+.ContactText h2{
+    padding-bottom: 1rem;
+}
+
+footer{
+    font-size: 22px;
+    background-color: #1c2a3b; 
+    color: white; 
+    padding: 2rem 2rem 1rem 6rem;
+    display: flex;
+    align-items: center;
+}
