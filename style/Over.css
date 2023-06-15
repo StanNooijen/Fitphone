@@ -68,17 +68,17 @@ nav-link {
     line-height: 1;
 }
 
-.OverContact{
+.Contact{
     width: 80%;
     height: 100%;
 }
 
-.OverContact img{
+.Contact img{
     width: 40%;
     margin-top: 2rem;
 }
 
-.OverContact div{
+.Contact div{
     margin-top: 3rem;
     margin-bottom: 2rem;
 }
@@ -103,12 +103,6 @@ footer{
     body {
         font-size: 12px !important;
     }
-
-    .container {
-        margin: 0rem 0rem;
-        border: solid rgb(255, 0, 0) 1px;
-        width: 100% !important;
-    }
 }
 
 
@@ -116,11 +110,5 @@ footer{
 @media screen and (max-width: 1280px) {
     body {
         font-size: 17px !important;
-    }
-
-    .container {
-        margin: 0rem 0rem;
-        border: solid rgb(255, 0, 0) 1px;
-        width: 100% !important;
     }
 }
