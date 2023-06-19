@@ -6,3 +6,8 @@ input{
     background-color: #f0a53a;
     color: white;
 }
+
+.active,
+nav-link {
+    color: #f0a53a !important;
+}
