@@ -28,6 +28,27 @@ nav-link {
     color: #f0a53a !important;
 }
 
+.tijdbesteding h1 {
+    color: #1c2a3B !important;
+    margin-bottom: 2%;
+}
+
+.tijdbesteding p {
+    font-size: 23px;
+    color: #1c2a3B !important;
+}
+
+.introductietijd {
+    font-weight: bold;
+    padding-bottom:2%;
+}
+
+.outrotijd{
+    font-weight:bold;
+    font-style:italic;
+    font-size:26px;
+}
+
 .smartphoneTips {
     background-color: #1c2a3b;
     height: 100%;
@@ -36,23 +57,25 @@ nav-link {
 p {
     font-family: 'DM Sans', sans-serif;
     color: #ECEAEA;
+    padding-bottom:5%;
 }
 
-.smartphoneGebruik{
-padding-top:5%;
+.smartphoneGebruik {
+    padding-top: 5%;
 }
 
 .drieTips {
     color: #f0a53a;
-    font-style:bolder;
-    width:25%;
-    padding-top:2%;
+    font-weight: bolder;
+    width: 25%;
+    padding-top: 2%;
 }
 
 .tips {
     width: 90%;
+    padding-top:2%;
 }
 
-.rowMeldingen{
-    padding-bottom:5%;
+.rowMeldingen {
+    padding-bottom: 5%;
 }
