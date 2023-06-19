@@ -1,8 +1,78 @@
+body{
+    font-size: 22px;
+}
+
+.Slaap{
+    width: 85%;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+
+.Slaap h1{
+    font-style: italic;
+}
+
+.Slaap h4{
+    color:#f0a53a ;
+}
+
+.Slaap div{
+    margin-top: 1rem;
+}
+
+.colWidth{
+    width: 37%;
+}
+
 .FOMO {
     background-color: #f0a53a;
+    color: white;
+}
+
+.FOMO h1{
+    font-style: italic;
+    margin: 0rem -4rem 2rem 0rem;
+}
+
+.img{
+    width: 100%;
+    margin: 0rem 0rem 0rem 4.75rem;
+}
+
+.Width{
+    width: 35%;
+    margin: 10rem 5rem 10rem 9rem;
+}
+
+.aandacht{
+    width: 85%;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+.aandacht h1{
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+.TextWidth{
+    width: 75%;
 }
 
 .onzekerheid{
     background-color: #1c2a3b;
     color: white;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
 }
+
+.onzekerheid h1{
+    width: 40%;
+}
+
+.TextWidthOnzekerheid{
+    width: 88%;
+}
+
+
