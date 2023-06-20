@@ -139,10 +139,6 @@ span {
     padding-left: 15%;
 }
 
-.colMike {
-    padding-top: 9%;
-}
-
 .colMike h1 {
     font-size: 45px;
     padding-bottom: 3%;
@@ -151,6 +147,11 @@ span {
 .colMike p {
     font-size: 25px;
     width: 75%;
+}
+
+.colMike span{
+    font-style:italic;
+    font-weight:bold;
 }
 
 .d-block {
