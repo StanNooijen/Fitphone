@@ -104,6 +104,12 @@ span {
     padding: 1% 3% 1% 3%;
 }
 
+.buttonsOnderzoek {
+    margin-left: 30%;
+    gap: 4%;
+    margin-top: -3%;
+}
+
 .eindeOnderzoek h2 {
     justify-content: center;
     width: 25%;
@@ -251,14 +257,14 @@ footer {
 }
 
 @media screen and (max-width: 1280px) {
-body{
-    font-size: 18px;
-}
+    body {
+        font-size: 18px;
+    }
 
     .frontpagetext {
         margin-left: 18rem;
         margin-top: -7rem;
-        font-size:35px;
+        font-size: 35px;
     }
 
     .triangle-left {
@@ -273,7 +279,7 @@ body{
         /* margin-top: -1rem; */
         /* gap: 8px; */
         font-size: 18px;
-        border:solid;
+        border: solid;
     }
 }
 
