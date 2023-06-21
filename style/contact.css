@@ -1,13 +1,48 @@
-.form{
-    background-color: #f0a53a;
+p {
+    font-size: 30px;
 }
 
-input{
-    background-color: #f0a53a;
+h2 {
+    font-size: 45px;
+}
+
+input {
+    background-color: #f0c180;
     color: white;
 }
 
 .active,
 nav-link {
     color: #f0a53a !important;
+}
+
+#name {
+    width: 415px;
+    border: none;
+}
+
+#E-MAIL {
+    width: 415px;
+    border: none;
+}
+
+#phone {
+    width: 415px;
+    border: none;
+}
+
+#MSG {
+    width: 415px;
+    border: none;
+}
+
+#contactText {
+    margin-top: 5%;
+    margin-left: -6%;
+}
+
+form {
+    font-weight: 600;
+    font-size: 20px;
+    margin-left:30%;
 }
